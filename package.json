@@ -1,0 +1,16 @@
+{
+  "name": "consumindo-e-editando-videos-sob-demanda",
+  "version": "1.0.0",
+  "description": "Um fluxo de nó é um método de transferência de grandes quantidades de dados em dispositivos móveis ou sites, dividindo o arquivo ou os dados em partes gerenciáveis.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch src/index.js",
+    "web": "npx http-server ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

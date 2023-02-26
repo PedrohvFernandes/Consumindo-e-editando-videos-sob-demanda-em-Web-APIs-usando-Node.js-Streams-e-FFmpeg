@@ -39,8 +39,8 @@ O projeto em si tem um lado de editar videos com a lib FFmpeg feita em c++, mas 
 - [Como instalar e utilizar o FFmpeg no Windows](https://www.youtube.com/watch?v=Q267RF1I3GE&t=162s)
 
 - Caso queira refazer os comandos do FFmpeg para Windows em .bat:
- - [How to batch convert/multiplex any files with ffmpeg](https://forum.videohelp.com/threads/356314-How-to-batch-convert-multiplex-any-files-with-ffmpeg)
- - [ffmpeg Bat Collection](https://l0lock.github.io/FFmpeg-bat-collection/)
+  - [How to batch convert/multiplex any files with ffmpeg](https://forum.videohelp.com/threads/356314-How-to-batch-convert-multiplex-any-files-with-ffmpeg)
+  - [ffmpeg Bat Collection](https://l0lock.github.io/FFmpeg-bat-collection/)
 
 - Ou executar o bash no Windows:
   - [https://clmgf.be/pt/como-executar-arquivos-sh-no-windows/](https://clmgf.be/pt/como-executar-arquivos-sh-no-windows/)

@@ -21,7 +21,7 @@ O projeto em si tem um lado de editar videos com a lib FFmpeg feita em c++, mas 
 - [FFmpeg binary](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiF2Nfnr7P9AhVQq5UCHdW1BPgQFnoECBMQAQ&url=https%3A%2F%2Fffmpeg.org%2F&usg=AOvVaw19lCX0sMAnAOlyM2Pvp5-v)
  - [FFmpeg Download](https://ffmpeg.org/download.html)
   - [FFmpeg Download](https://www.gyan.dev/ffmpeg/builds/#release-builds)
-- Alternativa do FFmpeg Binary:
+- Alternativa de fazer os comandos na mão:
   - [FFmpeg NPM](https://www.npmjs.com/package/ffmpeg)
   - [FFmpeg NPM](https://www.npmjs.com/package/fluent-ffmpeg)
 
@@ -46,5 +46,5 @@ O projeto em si tem um lado de editar videos com a lib FFmpeg feita em c++, mas 
   - [https://clmgf.be/pt/como-executar-arquivos-sh-no-windows/](https://clmgf.be/pt/como-executar-arquivos-sh-no-windows/)
   - [Tem alguma maneira de rodar o script bash no windows?](https://pt.stackoverflow.com/questions/469435/tem-alguma-maneira-de-rodar-o-script-bash-no-windows)
 
-- Se for fazer o projeto é preciso do ubuntu ou Mac no servidor/sua maquina local com a aplicação back-end no ar, se não vai dar erro ao tentar iniciar o video pela web localhost:
+- Caso de erro:
   - [error-spawn-ffmpeg-enoent](https://stackoverflow.com/questions/37678703/error-spawn-ffmpeg-enoent)

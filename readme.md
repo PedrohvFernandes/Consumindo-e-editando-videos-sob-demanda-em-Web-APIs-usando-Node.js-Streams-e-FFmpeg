@@ -42,9 +42,9 @@ O projeto em si tem um lado de editar videos com a lib FFmpeg feita em c++, mas 
   - [How to batch convert/multiplex any files with ffmpeg](https://forum.videohelp.com/threads/356314-How-to-batch-convert-multiplex-any-files-with-ffmpeg)
   - [ffmpeg Bat Collection](https://l0lock.github.io/FFmpeg-bat-collection/)
 
-- Ou executar o bash no Windows:
+- Ou executar com o bash no Windows:
   - [https://clmgf.be/pt/como-executar-arquivos-sh-no-windows/](https://clmgf.be/pt/como-executar-arquivos-sh-no-windows/)
   - [Tem alguma maneira de rodar o script bash no windows?](https://pt.stackoverflow.com/questions/469435/tem-alguma-maneira-de-rodar-o-script-bash-no-windows)
 
 - Se for fazer o projeto é preciso do ubuntu ou Mac no servidor/sua maquina local com a aplicação back-end no ar, se não vai dar erro ao tentar iniciar o video pela web localhost:
- - [error-spawn-ffmpeg-enoent](https://stackoverflow.com/questions/37678703/error-spawn-ffmpeg-enoent)
+  - [error-spawn-ffmpeg-enoent](https://stackoverflow.com/questions/37678703/error-spawn-ffmpeg-enoent)

@@ -55,7 +55,7 @@ createServer(async (req, res) => {
       stdio: ['pipe', 'pipe', 'pipe']
     }
   )
-  // A medida que eu leio o arquivo, eu vou mandar pra quem chamou, fazendo processamento sobre demanda
+  // A medida que eu leio o arquivo, eu vou mandar pra quem chamou, fazendo processamento sob demanda
   // Em vez de mandar direto o response com o pipe, eu mando pro ffmpegProcess, que vai editar o video e mandar o response com o pipe '-' ou 'pipe:0' isso ja diz que é uma streams, ou seja um objeto vindo a partir de um pipe e o pipe:1 é o output
 
   // O pipe nada mais é que um "cano" a onde ele fala pra quem vai passar o conteudo. Em Node.js, um "pipe" (ou "tubo", em português) é uma funcionalidade que permite a transferência de dados de uma fonte para um destino de forma contínua e eficiente.
